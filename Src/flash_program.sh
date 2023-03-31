@@ -1,0 +1,1 @@
+cp ./build/main.uf2 /media/*/RPI-RP2/

@@ -1,3 +1,0 @@
-/mnt/DATA/Projects/pico/pico-examples/bme280_spi/build/pioasm/CMakeFiles/rebuild_cache.dir
-/mnt/DATA/Projects/pico/pico-examples/bme280_spi/build/pioasm/CMakeFiles/edit_cache.dir
-/mnt/DATA/Projects/pico/pico-examples/bme280_spi/build/pioasm/CMakeFiles/pioasm.dir
